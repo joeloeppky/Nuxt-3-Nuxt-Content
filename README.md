@@ -1,1 +1,1 @@
-# Nuxt-3-Nuxt-Content
+# Nuxt-3-Nuxt-Content-2
